@@ -1,7 +1,7 @@
 ### Olá eu sou o Breno 👋
 
-- 🔭estou procurando oportunidade na vaga de Dev Junior Front end...
-- 🌱 Estudando javascript
+- 🔭estou procurando oportunidade na vaga de Dev Junior Front-end ou estagio...
+- 🌱 Estudando react/mobile
 - 😄 Pronouns: ele/dele
 
 
