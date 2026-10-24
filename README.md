@@ -1,7 +1,7 @@
 ### Olá eu sou o Breno 👋
 
-- 🔭estou procurando oportunidade na vaga de Dev Junior Front-end ou estagio...
-- 🌱 Estudando react/mobile
+- 🔭estou querendo evoluir na carreira atualmente trabalhando como tecnico informatica 2 no hospital imip, como falei quero evoluir, fazer a transição da minha carreira para dev front ou analista de dados.
+- 🌱 Estudando  python/Power Bi
 - 😄 Pronouns: ele/dele
 
 
